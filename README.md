@@ -1,4 +1,10 @@
 # pt12_github_practice
-this is my readme 🧐
+
+- I'm taking over
+
+my readme, this is  🧐
 here's a change
+
+- Creating errors
+
 these are some important details
